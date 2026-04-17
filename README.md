@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <h1>⚡ Universal Request Builder PRO</h1>
@@ -36,6 +35,9 @@ Perfect for automation, API testing, chained request workflows, token capture fl
 </p>
 
 <hr>
+
+<img width="1446" height="928" alt="image" src="https://github.com/user-attachments/assets/4064bf42-ff00-44ab-a764-af26a7d5bf6e" />
+
 
 <h2>✨ Features</h2>
 
@@ -160,4 +162,3 @@ http://user:pass@ip:port
 <h3>⭐ Star the repo if you like the project ⭐</h3>
 
 </div>
-```
